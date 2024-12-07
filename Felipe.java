@@ -5,4 +5,6 @@ public class Felipe {
      * Esto es un comentario de prueba de 
      * git en forma colaborativa
      */
+
+     int y = 2;
 }
